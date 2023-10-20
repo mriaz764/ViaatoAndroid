@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Viaato_V8</string>
+
+    <string name="content_description_car">car</string>
+    <string name="content_description_bus">public_transport</string>
+    <string name="content_description_pedestrian">pedestrian</string>
+    <string name="content_description_bicycle">bicycle</string>
+    <string name="content_description_taxi">taxi</string>
+    <string name="content_description_scooter">scooter</string>
+
+    <string name="attributes_menu_toggle_theme">Dark Theme</string>
+    <string name="attributes_menu_toggle_dimension">2D</string>
+
+    <string name="geometry_menu_add_polygon">Add polygon</string>
+    <string name="geometry_menu_add_polyline">Add polyline</string>
+    <string name="geometry_menu_add_point">Add point</string>
+    <string name="geometry_menu_add_poi">Add point with label</string>
+    <string name="geometry_menu_add_point3d">Add point with elevation</string>
+    <string name="geometry_menu_add_poi3d">Add point with label and elevation</string>
+    <string name="geometry_menu_add_complex_object">Add complex object</string>
+    <string name="geometry_menu_shift_objects">Shift objects</string>
+    <string name="geometry_menu_remove_last">Remove last object</string>
+    <string name="geometry_menu_remove_all">Remove all objects</string>
+    <string name="geometry_menu_toggle_visibility">Toggle visibility</string>
+    <string name="geometry_menu_toggle_color">Toggle color</string>
+</resources>
